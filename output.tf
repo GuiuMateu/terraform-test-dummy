@@ -4,6 +4,6 @@ output "id" {
 }
 
 output "name" {
-  value       = var.var2
+  value       = var.var1
   description = "This is the mymodule's name"
 }
